@@ -1,65 +1,116 @@
-<div align="center">
-
-<!-- Hero Animated Cyberpunk Pixel Header -->
+<!-- Top Hero Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" width="100%" alt="Cyberpunk Blade Runner City Loop" />
+  <img src="https://github.com/user-attachments/assets/e3b5e1fe-0b4c-47d6-b21f-1fe4d2023556" width="100%" alt="Cyberpunk City Banner" />
 </p>
 
-<!-- Arcade 8-bit Neon Typing SVG -->
+<!-- Floating Mascot Illustration on Right -->
+<div>
+  <img align="right" width="38%" src="https://github.com/user-attachments/assets/0da1985a-e647-4da0-b593-5cbb42a82864" alt="Cyber Coder Mascot" style="margin-left: 20px; margin-bottom: 20px;" />
+</div>
+
+<!-- Header Intro -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32" /> ɪ'ᴍ xᴡᴜᴀɴ19!
+*Cyber Deck Operator / iOS Tweak & Proxy Architect*
+
+<br />
+
+<!-- Arcade Typing SVG -->
 <a href="https://github.com/Xwuan19">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Xwuan19+::+CYBER_DECK_ONLINE;%3E+iOS+Tweak+Developer+%26+IPA+Modder;%3E+Shadowrocket+%26+Proxy+Architect;%3E+Automating+the+Matrix+%26+Open-Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00F0FF&center=false&vCenter=true&width=520&lines=Xwuan19+::+CYBER_DECK_ONLINE;%3E+iOS+Tweak+Developer+%26+IPA+Modder;%3E+Shadowrocket+%26+Proxy+Architect;%3E+Automating+the+Matrix+%26+Open-Source" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br /><br />
 
-<!-- Navigation Badges -->
-<p align="center">
-  <a href="https://github.com/Xwuan19"><img src="https://img.shields.io/badge/PLAYER-Xwuan19-00F0FF?style=flat-square&logo=gamepad&logoColor=black" alt="Player" /></a>
-  <img src="https://img.shields.io/badge/GRID_STATUS-ONLINE-22C55E?style=flat-square&logo=circle&logoColor=white" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=Xwuan19&color=00F0FF&style=flat-square&label=EXP+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/xwuan"><img src="https://img.shields.io/badge/CORE_NODE-xwuan-A855F7?style=flat-square&logo=github&logoColor=white" alt="Core Account" /></a>
+<!-- Intro Bullet Points -->
+- ⚡ **Class**: Level 99 iOS Modder & Reverse Engineering Enthusiast
+- 📱 **Primary Focus**: High-tier iOS tweaks (Locket Gold, 4K UHD, 30s Video) & custom IPAs
+- 🌐 **Network Routing**: Automated V2Ray / Shadowsocks / Trojan subscription pipelines
+- 🤖 **Automation**: System scripting, Antigravity skills, and workflow pipelines
+- 🔗 **Core Node**: Managed alongside root account [@xwuan](https://github.com/xwuan)
+
+<!-- Profile Views Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Xwuan19&label=PROFILE%20VIEWS&color=00F0FF&style=for-the-badge&logo=star" alt="Profile Views" />
+  <a href="https://github.com/xwuan"><img src="https://img.shields.io/badge/CORE_NODE-xwuan-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Core Account" /></a>
 </p>
+
+<br />
 
 <!-- Pixel Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.gif" width="700" alt="Pixel Divider" />
 </p>
 
-</div>
-
 ---
 
-### 🍱 CYBER COMMAND CENTER
+<!-- Trophies Section -->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Xwuan19">
+    <img src="https://github-profile-trophy-ruddy.vercel.app/?username=Xwuan19&theme=monokai&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<table align="center" width="100%">
+<br />
+
+<!-- Github Stats Table (2x2 Grid) -->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>👾 PLAYER DOSSIER</h3>
-      <pre>
-┌──[ CYBER_DECK_TERMINAL ]──────────┐
-│ IDENTITY : Xwuan19 (ohshjt125)    │
-│ RANK     : Level 99 iOS Modder    │
-│ SPECIALTY: IPAs, Tweak, Configs   │
-│ ROUTING  : Proxies & Auto Subs    │
-│ LOCATION : Vietnam / Cyber Grid   │
-└───────────────────────────────────┘
-      </pre>
-      <p>Building high-performance iOS remote tweaks, custom Shadowsocks/V2Ray node pipelines, and automation tools.</p>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/Xwuan19">
+        <img src="https://github-stats-extended.vercel.app/api?username=Xwuan19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" width="100%" alt="GitHub Stats" />
+      </a>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <h3>⚡ OPERATOR IN ACTION</h3>
-      <img src="https://github.com/user-attachments/assets/0da1985a-e647-4da0-b593-5cbb42a82864" width="280" alt="Cyber Coder Mascot" />
-      <br>
-      <sub><i>Overclocking nodes & compiling IPAs...</i></sub>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <a href="https://github.com/Xwuan19">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xwuan19&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" width="100%" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ: Lᴏᴄᴋᴇᴛ-XVIP</strong></h3>
+      <a href="https://github.com/Xwuan19/Locket-XVIP">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Xwuan19&repo=Locket-XVIP&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&hide_border=true" width="100%" alt="Locket-XVIP" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ: v2ɴᴏᴅᴇs-ᴀᴜᴛᴏ-sᴜʙ</strong></h3>
+      <a href="https://github.com/Xwuan19/v2nodes-auto-sub">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Xwuan19&repo=v2nodes-auto-sub&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8&hide_border=true" width="100%" alt="v2nodes-auto-sub" />
+      </a>
     </td>
   </tr>
 </table>
 
+<br />
+
+<!-- Contribution Activity Graph -->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+  <img src="https://activity-graph-kappa.vercel.app/graph?username=Xwuan19&bg_color=0D1117&color=ffffff&line=00F0FF&point=FFE600&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<!-- Contribution Snake -->
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
-### 🕹️ ARSENAL & TECH INVENTORY
-
-<div align="center">
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟɪɴɢ 🛠️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
@@ -78,55 +129,19 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-### 🏆 FEATURED PROTOCOLS & DEPLOYMENTS
-
-| Protocol | Description | Architecture | Access |
-| :--- | :--- | :---: | :---: |
-| 👑 **Locket-XVIP** | Remote Config Siêu VIP Pro Max (Locket Gold, 4K UHD, 30s Video) | `iOS / Surge` | [Access Module](https://github.com/Xwuan19/Locket-XVIP) |
-| 📡 **v2nodes-auto-sub** | Automated V2Ray / Shadowsocks / Trojan subscription aggregator | `Node.js / CI` | [Access Module](https://github.com/Xwuan19/v2nodes-auto-sub) |
-| 🚀 **Shadowrocket_IPA** | Pre-tweaked & optimized Shadowrocket packages and modules | `IPA Mod` | [Access Module](https://github.com/Xwuan19/Shadowrocket_IPA) |
-| 🧠 **antigravity-skill-os** | Specialized Antigravity skills and custom system automations | `Python / AI` | [Access Module](https://github.com/Xwuan19/antigravity-skill-os) |
-| 🛡️ **Xwuan-DNS** | AdBlock & Privacy DNS routing configs (managed on `@xwuan`) | `DNS Filter` | [Access Module](https://github.com/xwuan/Xwuan-DNS) |
-
----
-
-### 📊 REAL-TIME TELEMETRY & REPO METRICS
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api?username=Xwuan19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=94A3B8" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xwuan19&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 CONTRIBUTION SNAKE GAME
-
+<!-- Connect Section -->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution" src="https://raw.githubusercontent.com/Xwuan19/Xwuan19/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
+  <a href="https://github.com/Xwuan19"><img src="https://img.shields.io/badge/GitHub-Xwuan19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/xwuan"><img src="https://img.shields.io/badge/Root_Node-xwuan-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Main Account" /></a>
+  <a href="https://github.com/Xwuan19/Locket-XVIP/issues"><img src="https://img.shields.io/badge/Telegram_Support-Contact-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
----
+<br />
 
-<div align="center">
-
-<a href="https://github.com/Xwuan19">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FACC15&center=true&vCenter=true&width=550&lines=***+MISSION+ACCOMPLISHED+***;***+PRESS+START+TO+RETRY+***;***+TRANSMISSION+COMPLETE+***" alt="Footer Pixel" />
-</a>
-
-</div>
+<!-- Footer Waving Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=75&section=footer" width="100%" alt="Footer" />
+</p>
